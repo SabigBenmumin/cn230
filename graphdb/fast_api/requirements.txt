@@ -1,0 +1,6 @@
+fastapi
+neo4j
+uvicorn
+pydantic
+pandas
+python-multipart
